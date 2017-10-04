@@ -3,7 +3,7 @@
  * @author David Arayan (DrHalfway) - Modifications to code
  * @version 1.0 - Used as part of HalfWay Game Engine Math Library
  */
-public class Random {
+public class FastestRandom {
     private long seed;
 
     /**
